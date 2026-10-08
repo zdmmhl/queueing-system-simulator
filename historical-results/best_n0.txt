@@ -1,0 +1,4 @@
+Best n0 by weighted mean response time (W = 0.95*T0 + 0.052*T1)
+n0 = 7
+W_mean = 1.003931
+W_95CI = [1.001127, 1.006736]

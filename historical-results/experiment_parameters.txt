@@ -1,0 +1,7 @@
+Design experiment parameters
+replications = 30
+time_end = 3000.0
+warmup_departure_time = 500.0
+base_seed = 20260412
+fixed model params: n=12, Tlimit=2.5, lambda=2.7, a2l=0.85, a2u=1.21,
+p0=0.81, group0(alpha,beta,theta)=(0.5,4.7,1.9), group1(alpha,theta)=(2.2,2.4)
