@@ -28,3 +28,10 @@ Originated in UNSW COMP9334. The source baseline is the `project_submit` source 
 ## Verification status
 
 A synthetic two-task trace passed on 8 October 2026: departures at times 1 and 2 and mean response time 1 for each class. The historical allocation sweep was not rerun.
+
+
+## Historical reports
+
+The reports preserve saved coursework observations and team context. They are not fresh benchmark or runtime verification.
+
+- [Full historical design report](docs/full-design-report.md)
